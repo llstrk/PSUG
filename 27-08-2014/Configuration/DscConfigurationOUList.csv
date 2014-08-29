@@ -1,0 +1,3 @@
+ConfigurationName; OU
+StandardConfiguration; OU=Servers,OU=DRY,DC=dry,DC=systemhosting,DC=dk
+StandardRdpConfiguration; OU=Test,OU=Servers,OU=DRY,DC=dry,DC=systemhosting,DC=dk
